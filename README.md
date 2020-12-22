@@ -11,14 +11,21 @@ git checkout passo1
 
 ### Passo2 - Nodejs com Postgres
 git checkout passo2
+
 rode os comandos:
+
 npm init
+
 npm install --save pg (pg é o drive do postgres)
+
 node js/_database.js
 ### Passo3 - Nodejs com Postgres e Sequelize
 git checkout passo3
+
 npm install --save pg
+
 npm install --save sequelize
+
 node sequelize /_database.js
 
 ### Documentação sequelize
